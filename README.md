@@ -6,7 +6,7 @@ A professional front-end developer  with huge knowledge and proficiency in JavaS
 
 Skills: REACT / JS / ES6 / Redux / HTML / CSS / Material UI / Ant Design / Axios / REST
 
-- 🔭 I’m currently working on Nexa Global Holdings Limited 
+- 🔭 I’m currently working at Nexa Global Holdings Limited 
 - 🌱 I’m currently learning advance JavaScript and React 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about JavaScript 
