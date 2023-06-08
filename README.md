@@ -1,6 +1,6 @@
+![Front-End Web Developer](https://media.licdn.com/dms/image/D4D16AQH5Hb-mQ28v6A/profile-displaybackgroundimage-shrink_350_1400/0/1686211584332?e=1691625600&v=beta&t=wIpct520GCUPMOkXS3sLdHS0_CoRRPR7dejNoguAyMM)
 ### Hi there 👋, I am Arifur Rahaman
 #### Front-End Web Developer
-![Front-End Web Developer](https://media.licdn.com/dms/image/D4D16AQH5Hb-mQ28v6A/profile-displaybackgroundimage-shrink_350_1400/0/1686211584332?e=1691625600&v=beta&t=wIpct520GCUPMOkXS3sLdHS0_CoRRPR7dejNoguAyMM)
 
 A professional front-end developer  with huge knowledge and proficiency in JavaScript, ReactJS, and mobile responsive web development, as well as strong skills and ability in writing clean and efficient code.
 
