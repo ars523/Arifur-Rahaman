@@ -14,11 +14,7 @@ Skills: REACT / JS / ES6 / Redux / HTML / CSS / Material UI / Ant Design / Axios
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Arifur-Rahaman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arifur-rahaman-ars//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/20097686/arifur-rahaman?tab=profile)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arifur-Rahaman)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arifur-Rahaman)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/Arifur-Rahaman)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Arifur-Rahaman)  
 
