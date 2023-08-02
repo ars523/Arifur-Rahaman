@@ -1,4 +1,4 @@
-![Front-End Web Developer](https://media.licdn.com/dms/image/D4D16AQH5Hb-mQ28v6A/profile-displaybackgroundimage-shrink_350_1400/0/1686211584332?e=1691625600&v=beta&t=wIpct520GCUPMOkXS3sLdHS0_CoRRPR7dejNoguAyMM)
+![Front-End Web Developer](https://media.licdn.com/dms/image/D5616AQFzD4HkBSzp2g/profile-displaybackgroundimage-shrink_350_1400/0/1690901297332?e=1696464000&v=beta&t=9NzHwuK52ABbyimocWnHwreXH4zGMJgmFqDuJAOELG0)
 ### Hi there 👋, I am Arifur Rahaman
 #### Front-End Web Developer
 
@@ -7,8 +7,8 @@ A professional front-end developer  with huge knowledge and proficiency in JavaS
 Skills: REACT / JS / ES6 / Redux / HTML / CSS / Material UI / Ant Design / Axios / REST
 
 - 🔭 I’m currently working at Nexa Global Holdings Limited 
-- 🌱 I’m currently learning advance JavaScript and React 
-- 👯 I’m looking to collaborate on github 
+- 🌱 I’m currently learning advanced JavaScript and React 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about JavaScript 
 
 
