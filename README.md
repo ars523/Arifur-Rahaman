@@ -16,6 +16,4 @@ Skills: REACT / JS / ES6 / Redux / HTML / CSS / Material UI / Ant Design / Axios
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arifur-Rahaman)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Arifur-Rahaman)  
-
 
