@@ -2,7 +2,10 @@
 ### Hi there 👋, I am Arifur Rahaman
 #### Front-End Web Developer
 
-A professional front-end developer  with huge knowledge and proficiency in JavaScript, ReactJS, and mobile responsive web development, as well as strong skills and ability in writing clean and efficient code.
+A self-motivated software professional with hands-on experience in JavaScript and ReactJS development. I am
+passionate about front-end development, demonstrating a strong commitment to crafting clean, functional code to overcome
+complex challenges. My positive mindset and thirst for continuous learning drive me to contribute effectively in dynamic and
+growth-oriented environments.
 
 Skills: REACT / JS / ES6 / Redux / HTML / CSS / Material UI / Ant Design / Axios / REST
 
